@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zorantica
-- 👀 I'm Database Designer, Business Analyst and Software Developer with 35+ years of experience in IT industry. Skilled in E-R Modeling and Database design, Oracle PL/SQL and SQL, APEX, Oracle Designer, Forms and Reports and software development in various programming languages including Java SE/EE, Visual Basic. Oracle certified professional for Advanced PL/SQL, Forms and Java SE developer.
+- 👀 Database Designer, Business Analyst and Software Developer with 35+ years of experience. Oracle ACE Associate. Skilled in Database design, SQL and PL/SQL, APEX, Forms/Reports/Designer. Author of various APIs and utilities such as QR code generator, D.O.M.E, Word generator, SVG generator, which are available freely on GIT. Conference speaker at various conferences such as Apex Alpe Adria or regional Oracle User Groups (Slovenia, Austria, Croatia). Oracle certified professional for Advanced PL/SQL, APEX, Forms and Java SE developer.
 - 📫 How to reach me:
 
 https://www.linkedin.com/in/zoran-tica
